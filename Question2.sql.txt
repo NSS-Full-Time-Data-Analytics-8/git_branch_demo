@@ -1,0 +1,3 @@
+SELECT passwords
+FROM NASA
+WHERE hack = TRUE
